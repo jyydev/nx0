@@ -1,5 +1,4 @@
 import toPrecision from "toprecision";
-
 export const dynamic = "force-dynamic";
 
 export default function Home() {
